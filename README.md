@@ -9,6 +9,9 @@
 - dataTable
 - Moment
 # Js lib
+- [lodash](https://github.com/lodash/lodash)
+- [Vanilla JS](http://vanilla-js.com/)
+# Js lib specify
 - [Select2](https://select2.org/)
 - [Multi Select](http://loudev.com/)
 - Quicksearch
@@ -16,8 +19,11 @@
 - [ChartJS](https://www.chartjs.org/)
 - [Jquery Sortable](https://johnny.github.io/jquery-sortable/)
 - [Jquery Validation](https://jqueryvalidation.org/)
-# Css lib
+# Css lib specify
 - Bootstrap datepicker
+# Css framework
+- PureCss
+- css grid library
 # Editor
 - CKEditor
 - TinyMce
